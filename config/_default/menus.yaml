@@ -21,17 +21,17 @@ main:
     weight: 50 
   - name: Posts
     url: '#posts'
-    weight: 60
+    weight: 80
   - name: Events
     url: '#talks'
-    weight: 70
+    weight: 90
   - name: Blogs
     url: courses/
-    weight: 80
+    weight: 100
   - name: Misc.
     url: misc/
-    weight: 90
+    weight: 110
   - name: Contact
     url: '#contact'
-    weight: 100  
+    weight: 130 
 
