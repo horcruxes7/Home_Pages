@@ -10,14 +10,14 @@ main:
   - name: Research
     url: '#about'
     weight: 20 
-  - name: Short CV
-    url: '#experience'
-    weight: 30 
   - name: Publications
     url: '#publications'
-    weight: 40
+    weight: 30
   - name: Projects
     url: '#projects'
+    weight: 40 
+  - name: Short CV
+    url: '#experience'
     weight: 50 
   - name: Posts
     url: '#posts'
