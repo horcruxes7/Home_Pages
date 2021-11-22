@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Research
-    url: '#about'
+    url: '#research'
     weight: 20 
   - name: Publications
     url: '#publications'
@@ -16,9 +16,9 @@ main:
   - name: Projects
     url: '#projects'
     weight: 40 
-  - name: Short CV
-    url: '#experience'
-    weight: 50 
+  - name: Awards
+    url: '#accomplishments'
+    weight: 60 
   - name: Posts
     url: '#posts'
     weight: 80

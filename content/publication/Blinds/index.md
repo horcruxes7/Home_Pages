@@ -1,5 +1,5 @@
 ---
-title: " Blind Tracks Obstacle Recognition, Navigation and Early Warning System via OpenCV V1.0"
+title: " Blind Tracks Obstacle Recognition, Navigation and Early Warning System via OpenCV"
 subtitle: '基于0penCV的盲道障碍视觉识别导航与预警系统 V1.0👨‍🦯➡❗'
 authors:
 - admin

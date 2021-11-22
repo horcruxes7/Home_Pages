@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 90
 
 title: Skills
 subtitle:
@@ -24,6 +24,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: 10%
+  icon: camera-retro
+  icon_pack: fas
+  name: Photography
 - description: 10%
   icon: camera-retro
   icon_pack: fas

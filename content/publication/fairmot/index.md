@@ -65,8 +65,9 @@ image:
 **Advisor**: [Prof. Yong Du](http://dqxx.neau.edu.cn/info/1089/2087.htm)<br>
 **Summary**: This work was done independently by me under the guidance of Associate Professor Yong Du of NUAU AI Lab.<br>
 It based on real surveillance video,instead of simple datasets, which flexibly collected video stream and pushed it to my code, the great thing about this work is that the Cloud Server interaction between the MOT algorithm and the monitoring software(.NET) developed is almost real-time, which can be used for passengers and students in complex scenes such as airports, stations, schools, etc. The social safety distance of people is calculated dynamically (To some extent avoid Covid-19), and I have designed a mobile app to use the LSTM algorithm to estimate the number of people in the future. These are all based on the area of interest.<br>
-<img src=..\..\assets\media\image\peoflow.gif width=40% height=40% />
+
+<img src= "flow.gif" width = "300" height = "200" alt="flow" align=center />
 <br>
+
 ### 摘要
 本发明公开了一种基于FairMOT的多目标跟踪人流量监测方法，涉及基于计算机视觉的人流量统计监测技术领域，包括以下步骤：预先通过摄像头采集区域内监控视频，并通过Python‑OpenCV读取摄像头的实时视频流；将获取的实时视频流输入图像到Encoder‑Decoder Network，提取高分辨率的特征映射，并作为输出特征图；将获取输出特征图分别进行目标检测任务和Re‑ID任务，并进行多目标跟踪。本发明具有实时性，高精确度，高鲁棒性的能够适应拥堵、密集并消除单通道出入场景限制的系统，不仅通过目标检测任务和Re‑ID任务，解决了经过遮挡等模糊现象出现后身份切换造成结果误差的现象，提高了密集场景的识别准确度，而且硬件安装简单降低大量成本，仅需无线摄像头安置划分感兴趣区域便于使用者观察人流量。
-

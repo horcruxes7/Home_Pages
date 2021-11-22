@@ -16,6 +16,8 @@ organizations:
   url: http://dqxx.neau.edu.cn/
 - name: ACM-ICPC Lab
   url: https://home.neauacm.cn/
+- name: AI Lab
+  url: http://dqxx.neau.edu.cn/info/1089/2087.htm
 - name: DELL Campus Ambassador
   url: https://www.linkedin.com/company/delltechnologies?trk=public_profile_experience-item_profile-section-card_subtitle-click
 # Short bio (displayed in user profile at end of posts)
@@ -23,9 +25,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Self-Supervised Learning
-- Semantic Segmatation
-- Domain Adaptation
+- 2021 IEEE CSAIEE (attend)
+- 2018-2022 DELL Campus Ambassador
+- 2019 Slush Shanghai Exhibition Area (principal) 
 
 # Education to show in About widget
 education:
@@ -33,6 +35,7 @@ education:
   - course: B.E in Computer Science and Technology
     institution: Northeast Agricultural University
     year: 2018-2022
+    GPA: 'GPA: 3.81/4.0 (4.0 in Junior)'
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,10 +74,12 @@ email: "yuxin.liu.cs@gmail.com"
 highlight_name: true
 ---
 
-Hi! I am Yuxin Liu (in Chinese, 刘宇昕)🙋, a senior **Computer Science and Technology**👩‍💻 undergraduate student at [Northeast Agricultural University](http://www.neau.edu.cn/)🎓. It's my honor to be ranked 1 among 212 students🥇, and win the 2019-2020 and 2020-2021 Chinese National Scholarship 🏆! 
+Hi! I am Yuxin Liu (in Chinese, 刘宇昕)🙋, a senior **Computer Science and Technology** (National **First-Class** Undergraduate Major)👩‍💻 undergraduate student at [Northeast Agricultural University](http://www.neau.edu.cn/) ([Project 211](https://en.wikipedia.org/wiki/Project_211))🎓. I serve as a member of [ACM-ICPC Lab](https://home.neauacm.cn/) and a student lecturer for [AI Lab](http://dqxx.neau.edu.cn/info/1089/2087.htm)👩‍🏫.<br>
+During my bachelor program👩‍🎓, the record📈 I broke in academic performance📕, <a href="#accomplishments" target="_blank">academic competitions</a>🎖️ and <a href="#research" target="_blank">research projects</a>🔬 are inseparable from my true love for the field (especially in **Artificial Intelligence** and **Software Engineering**), persistence in day-by-day📅, long-term code practice📃, and actively seeking cooperation, communication and guidance from **cutting-edge** Computer Science related scholars👨‍⚕️ and industry👨‍💼.
+- **2020-2021 and 2019-2020 National Scholarship**🏆<br>(ranking: 1/434)
+- **Ranking 1/212 within the whole major**🥇<br>(both in only GPA Ranking and Comprehensive Ranking)
+- **2019-2020 Technology and Innovation Scholarship**🌐<br>(in total 24 within the whole undergraduates)
 
-I have a positive willingness to work with active industry and academic frontiers and practitioners in computational-related technology. 
-My initial research work was as a Research Assistant for Stanford Postdoctoral Researcher [*Hongwei Wang*](https://hongweiw.net/) to study the Deep Recommender Systems. I eminently participated in the workshop on Neural Networks and Machine Learning algorithms was instructed by [*Dr.Qing Zhu*](https://eesa.lbl.gov/profiles/qing-zhu/). My paper on Domain Adaptation independent research directed by [*PhD. Xudong Lin*](https://xudonglinthu.github.io/) is about to be completed! 
-
+I sincerely look forward to the **lab research group**🤹 and **internship**🌃 opportunities which be able to follow up with **state-of-the-art** research and products🔥. It is very significant for my personal lifelong learning✒️ and becoming a member who can contribute to the field (world)🌎. Feel free to *[contact](#contact)* 🗣️ me directly or to *[schedule an appointment](https://calendly.com/)* 🗓️.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

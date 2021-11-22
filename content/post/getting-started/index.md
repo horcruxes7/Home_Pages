@@ -15,7 +15,7 @@ authors:
 lastmod: 2020-12-13T00:00:00Z
 tags:
   - Academic
-  - 开源
+  - Open-source
 categories:
   - Demo
   - 教程

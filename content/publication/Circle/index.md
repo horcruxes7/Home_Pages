@@ -1,5 +1,5 @@
 ---
-title: "Cycater Campus- Intelligence Campus Catering  WeChat App v1.0"
+title: "Cycater Campus - Intelligence Campus Catering  WeChat App V1.0"
 subtitle: '塾食圈——智慧校园饮食文化微信小程序 V1.0🏫🥟📲'
 authors:
 - admin

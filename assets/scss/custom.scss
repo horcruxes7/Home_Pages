@@ -10,6 +10,40 @@
 .home-section{
 background: white;
 position: relative;
-padding: 50px 0 110px 0;
+padding: 50px 0 45px 0;
 z-index: 0;
+}
+.col-sm-4 {
+    flex: 0 0 16.6%;
+    max-width: 16.6%; }
+
+.section-subheading {
+        font-size: 0.8rem;
+        font-family: "Montserrat", sans-serif;
+        font-weight: bold;
+        margin-top: 0.8rem;
+        margin-bottom: 0.3rem; }
+.section-subheading1 {
+        font-size: 1.25rem;
+        font-family: "Montserrat", sans-serif;
+        font-weight: bold;
+        margin-top: 0.1rem;
+        margin-bottom: 0.3rem; }
+.col-md-7 {
+        flex: 0 0 53.33333333%;
+        max-width: 53.33333333%; }
+.col-md-5 {
+        flex: 0 0 46.53333333%;
+        max-width: 46.53333333%; }
+.home-section:first-of-type {
+        padding-top: 45px;
+}
+#profile {
+    text-align: center;
+    padding: 30px 10px;
+    margin-top: 68px;
+    position: relative;
+}
+.line_height {
+    line-height: 130%;
 }

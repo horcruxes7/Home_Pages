@@ -75,6 +75,8 @@
   translation: 查看全部演讲
 - id: more_publications
   translation: 查看全部出版物
+- id: more_projects
+  translation: 查看全部项目 
 - id: contact_name
   translation: 姓名
 - id: contact_email
