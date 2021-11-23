@@ -9,7 +9,7 @@ headless: false
 # Order that this section appears on the page.
 weight: 80
 
-title: Featured Publications
+title: Movie
 subtitle: ""
 
 content:
@@ -34,3 +34,4 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+I am a cinephile. Some of my favorite directors are Stanley Kubrick, Robert Zemeckis, Peter Jackson, Giuseppe Tornatore, David Fincher, and Christopher Nolan. I'm  fond of Fantasy Series film, The Lord of the Ring is the best. I'm keen on Animation(Pixar) and superhero universes. My favorite superhero is Spider-Man (Tobey Maguire) and Wolverine. I also like writing reviews in Douban.

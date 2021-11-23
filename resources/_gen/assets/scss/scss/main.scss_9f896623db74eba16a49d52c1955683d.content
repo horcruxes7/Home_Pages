@@ -9540,8 +9540,8 @@ div.chart {
   z-index: 0; }
 
 .col-sm-4 {
-  flex: 0 0 16.6%;
-  max-width: 16.6%; }
+  flex: 0 0 19.6%;
+  max-width: 19.6%; }
 
 .section-subheading {
   font-size: 0.8rem;
@@ -9576,3 +9576,9 @@ div.chart {
 
 .line_height {
   line-height: 130%; }
+
+.btn-toolbar .btn:last-child {
+  border-radius: 0 0px 0px 0; }
+
+.btn-toolbar .btn:first-child {
+  border-radius: 0px 0 0 0px; }
