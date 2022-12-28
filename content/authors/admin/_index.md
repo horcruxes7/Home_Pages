@@ -78,7 +78,7 @@ Hi! I am Yuxin Liu (in Chinese, 刘宇昕)🙋, a senior **Computer Science and 
 During my bachelor program👩‍🎓, the record📈 I broke in academic performance📕, <a href="#accomplishments" target="_blank">academic competitions</a>🎖️ and <a href="#research" target="_blank">research projects</a>🔬 are inseparable from my true love for the field (especially in **Artificial Intelligence** and **Software Engineering**), persistence in day-by-day📅, long-term code practice📃, and actively seeking cooperation, communication and guidance from **cutting-edge** Computer Science related scholars👨‍⚕️ and industry👨‍💼.
 - **2020-2021 and 2019-2020 National Scholarship**🏆<br>(ranking: 1/434)
 - **Ranking 1/212 within the whole major**🥇<br>(both in only GPA Ranking and Comprehensive Ranking)
-- **2019-2020 Technology and Innovation Scholarship**🌐<br>(in total 24 within the whole undergraduates)
+- **2019-2020 Scientific and Technological Innovation Scholarship**🌐<br>(in total 24 within the whole undergraduates)
 
 I sincerely look forward to the **lab research group**🤹 and **internship**🌃 opportunities which be able to follow up with **state-of-the-art** research and products🔥. It is very significant for my personal lifelong learning✒️ and becoming a member who can contribute to the field (world)🌎. Feel free to *[contact](#contact)* 🗣️ me directly or to *[schedule an appointment](https://calendly.com/)* 🗓️.
 

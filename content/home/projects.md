@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: Deep Learning Research
     tag: Deep Learning
-  - name: Software 
+  - name: Deep Learning Application
     tag: Software
-  - name: Commercialize
+  - name: Commercialize 
     tag: Demo
   - name: Others
     tag: Demo
